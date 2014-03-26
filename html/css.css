@@ -11,7 +11,7 @@ body{
     background-color: grey;
 }
 .container{
-    width: 600px;
+    width: 900px;
     height: 600px;
     background: white;
     border: solid red;
@@ -27,7 +27,7 @@ body{
   
 } 
 .mtext{
-    width: 450px;
+    width: 600px;
     border: solid green;
     padding-top: 5px;
     padding-left: 10px;
@@ -54,10 +54,10 @@ h3{
     background: black;
     text-align: center;
     color: white;
-    width: 600px;
+    width: 900px;
     height: 30px;;
     position:absolute;
-    bottom: 15px;
+    bottom: 20px;
     margin: auto;
 }
 /*Meny*/
@@ -84,6 +84,7 @@ text-align:center;
 padding:4px;
 text-decoration:none;
 text-transform:uppercase;
+border: white 1px solid;
 }
 a:hover,a:active
 {
